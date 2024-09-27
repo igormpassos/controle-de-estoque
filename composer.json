@@ -1,0 +1,11 @@
+{
+    "require": {
+        "graphaware/neo4j-php-client": "^4.6",
+        "laudis/neo4j-php-client": "^3.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
